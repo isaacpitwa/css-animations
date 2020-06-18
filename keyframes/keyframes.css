@@ -1,0 +1,64 @@
+body{
+    background-color: #333;
+
+}
+.box{
+    background-color: white;
+    position: relative;
+    height: 200px;
+    width: 200px;
+    animation-name: myanimation;
+    animation-duration: 4s;
+    animation-iteration-count: 2; /*Number of times the animation repeats*/
+    animation-delay: 1;/*secounds takensfter iteration to go to the next*/
+    animation-direction: alternate; /*direction of the animation*/
+    animation-timing-function: ease-in;/* Nature of the animation start slow   end slow etc*/
+    animation-fill-mode: forwards; /*How the animated object stays  after the animation is done. keep the changes fro the animation or not*/
+}
+/* @keyframes myanimation {
+    0% {
+        background-color: white; left: 0; top: 0;
+        border-radius: 0% 0% 0% 0%;
+        
+    }
+    25%{
+        background-color: red;left: 300px; top: 0;
+        border-radius: 50% 0% 0% 0%;
+    }
+    50%{
+        background-color: green; left: 300px; top: 300px;
+        border-radius: 50% 50% 0% 0%;
+    }
+    75%{
+        background-color: blue ; left: 0; top: 300px;
+        border-radius: 50% 50% 50% 0%;
+    }
+    100% {
+        background-color: white; left: 0; top: 0;
+        border-radius: 50% 50% 50% 50%;
+    }
+} */
+
+@keyframes myanimation {
+    0% {
+        background-color: white; 
+        border-radius: 0% 0% 0% 0%;
+        
+    }
+    25%{
+        background-color: red;
+        border-radius: 50% 0% 0% 0%;
+    }
+    50%{
+        background-color: green; 
+        border-radius: 50% 50% 0% 0%;
+    }
+    75%{
+        background-color: blue ;
+        border-radius: 50% 50% 50% 0%;
+    }
+    100% {
+        background-color: white;
+        border-radius: 50% 50% 50% 50%;
+    }
+}
