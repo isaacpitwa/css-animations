@@ -17,28 +17,27 @@ body {
 .word-swipe{
     font-size: 36px;
     font-weight: 200;
-    columns: #939393;
-
+    color: #939393;
 }
-
+.word-swipe li{
+            color: #ccc;
+            font-weight: 700;
+            padding: 0 10px;
+            height: 45px;
+            margin-bottom: 45px;
+            display: block;
+}
 .word-swipe div{
-    overflow: hidden;
-    position: relative;
-    float: right;
-    padding-top: 10px;
-    margin-top: -10px;
+        overflow: hidden;
+        position: relative;
+        float: right;
+        padding-top: 10px;
+        margin-top: -10px;
 }
-.word-swipe div li {
-    color: #ccc;
-    font-weight: 700;
-    padding: 0 10px;
-    height: 45px;
-    margin-bottom: 45px;
-    display: block;
-}
-.flip2 { animation: flip2 6s cubic-bezier(0.23, 1, 0.32, 1.2) infinite; }
-.flip3 { animation: flip3 8s cubic-bezier(0.23, 1, 0.32, 1.2) infinite; }
-.flip4 { animation: flip4 10s cubic-bezier(0.23, 1, 0.32, 1.2) infinite; }
+
+/* .flip2 { animation: flip2 6s cubic-bezier(0.23, 1, 0.32, 1.2) infinite; }
+.flip3 { animation: flip3 8s cubic-bezier(0.23, 1, 0.32, 1.2) infinite; } */
+.flip4 { animation: flip4 10s cubic-bezier(0.23, 1, 0.32, 1.2) infinite;}
 
 @keyframes flip2 {
     0% { margin-top: -180px; }
