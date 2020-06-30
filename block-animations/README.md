@@ -1,11 +1,10 @@
-# css-animations
-Includes basic css animations styles  with animations and transitions 
+# css-Block animations
+Includes basic css animations styles  with animations and transitions placed on block components of a webpage.
+These include landing pages, SVG, etc
 
-# Animation styles
-These can be found in the `/animations` folder
+# Animations Included
 
-# Transitions Styles
-These can be found in the `/transitions` folder
+# Block Revealing Animation
+These can be found in the `/block-revealing-animation`  directory. Written in plain CSS and HTML
 
-# practical applications of transitions and animations
-These can be found in the `/applications` folder
+
