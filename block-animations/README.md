@@ -6,6 +6,7 @@ These include landing pages, SVG, etc
 
 # Block Revealing Animation
 Files can be found in the `/block-revealing-animation`  directory. Written in plain CSS and HTML
+
 ![Block Revealing Animation Preview](https://media.giphy.com/media/Y3AvxFfDjHtPbce6Tx/giphy.gif)
 
 
