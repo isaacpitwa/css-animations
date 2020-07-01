@@ -6,7 +6,7 @@ These can be found in the `/animations` directory
 
 ![Block Revealing Animation Preview](https://media.giphy.com/media/Y3AvxFfDjHtPbce6Tx/giphy.gif)
 
-![Block Revealing Animation Preview](https://media.giphy.com/media/jUDkvkYNAFPFcRDyRr/giphy.gif)
+![Landing Page SVG Animations](https://media.giphy.com/media/gLKrxXH2NLb1eF6uI2/giphy.gif)
 
 # Transitions Styles
 These can be found in the `/transitions` directory
