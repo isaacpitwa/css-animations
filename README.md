@@ -6,6 +6,8 @@ These can be found in the `/animations` directory
 
 ![Block Revealing Animation Preview](https://media.giphy.com/media/Y3AvxFfDjHtPbce6Tx/giphy.gif)
 
+![Block Revealing Animation Preview](https://media.giphy.com/media/jUDkvkYNAFPFcRDyRr/giphy.gif)
+
 # Transitions Styles
 These can be found in the `/transitions` directory
 
